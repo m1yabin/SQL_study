@@ -1,0 +1,4 @@
+BEGIN TRANSACTION;
+
+INSERT INTO Shohin VALUES ('0001', 'Tシャツ', '衣服', '1000', '500', '2009-09-20');
+COMMIT;
